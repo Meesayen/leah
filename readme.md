@@ -5,9 +5,7 @@
 > My lovely personal assistant ❤️
 
 <h1 align="center">
-	<br>
-	<img width="256" src="">
-	<br>
+	<img width="128" src="https://cdn.rawgit.com/Meesayen/leah/b074d9ae/faces/celebrate.png">
 	<br>
 	<br>
 </h1>
