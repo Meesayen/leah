@@ -13,6 +13,6 @@
 
 ## Credits
 
-[Emoji icons provided free by EmojiOne](1)
+[Emoji icons provided free by EmojiOne][1]
 
 [1]: https://www.emojione.com/
