@@ -1,0 +1,30 @@
+{
+  "name": "leah",
+  "version": "1.0.0-alpha.1",
+  "description": "My lovely assistant",
+  "main": "leah.js",
+  "bin": "leah.js",
+  "author": "Federico Giovagnoli <gvg.fede@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo"
+  },
+  "xo": {
+    "extends": "paprika"
+  },
+  "dependencies": {
+    "async-file": "^2.0.2",
+    "clean-css": "^4.1.2",
+    "del": "^2.2.2",
+    "eslint-config-paprika": "^1.0.0",
+    "execa": "^0.6.3",
+    "globby": "^6.1.0",
+    "minimist": "^1.2.0",
+    "node-notifier": "^5.1.2",
+    "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "eslint-config-paprika": "^1.0.0",
+    "xo": "^0.18.2"
+  }
+}
